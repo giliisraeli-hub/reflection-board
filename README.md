@@ -3,7 +3,7 @@
 A real, shareable team retro board (Wins / Learnings / Improvements / Questions,
 each with topic sub-sections: Emails, Website, App, QA flow, Meetings structure,
 Communication channels, General).
-
+ 
 This gets you a **real public URL** your team can open in any browser — no Claude,
 no download, no install required for them. Setup below is done entirely through
 websites in your browser — no terminal needed.
